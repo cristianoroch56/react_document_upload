@@ -1,0 +1,1 @@
+export const API_URL = "http://192.168.0.235/laravel_document_upload/public/api";
